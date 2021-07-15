@@ -1,5 +1,3 @@
-//! Testing PWM output for pre-defined pin combination: all pins for default mapping
-
 #![feature(exclusive_range_pattern)]
 //#![deny(unsafe_code)]
 #![no_main]
