@@ -31,14 +31,3 @@ Echo    | A4/B3
 GND     | G
 
 
-Bluepill 5V--short + Battery
-H bridge + --|<|-- + Battery
-
-```
-         ______
-       -|-____+|---|Diode>|--(+Hbridge-)--GND
-     
-   
-```
-
-
